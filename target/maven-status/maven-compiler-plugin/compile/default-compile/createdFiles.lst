@@ -1,0 +1,4 @@
+actionsOnWebPage\SignInPageAction.class
+actionsOnWebPage\XPaths.class
+actionsOnWebPage\XPaths$signInPage.class
+actionsOnWebPage\BaseTest.class
